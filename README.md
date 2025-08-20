@@ -42,7 +42,7 @@ AtliQ Hospitality, operating multiple hotels across various cities, needed a con
 ## Usage
 
 1. Download the `.pbix` file from this repository.
-2. Open the file in [Power BI Desktop]([https://powerbi.microsoft.com/desktop](https://app.powerbi.com/view?r=eyJrIjoiMGRmOGMyMDYtYjg2Yi00OTFmLThhOTItYjM3NzhkNTk4MWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)).
+2. Open the file in [Power BI Desktop](https://app.powerbi.com/view?r=eyJrIjoiMGRmOGMyMDYtYjg2Yi00OTFmLThhOTItYjM3NzhkNTk4MWE3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 3. Explore insights interactively, use slicers to filter data by city, property, or booking status.
 
 ***
