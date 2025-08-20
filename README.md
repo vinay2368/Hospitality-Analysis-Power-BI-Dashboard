@@ -1,6 +1,4 @@
 
-***
-
 # Hospitality Analysis – Power BI Dashboard
 
 This repository contains my end-to-end Power BI dashboard project analyzing hospitality performance across revenue, bookings, occupancy, cancellations, and customer ratings for AtliQ Hospitality’s portfolio of properties.
