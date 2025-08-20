@@ -1,6 +1,3 @@
-# Hospitality-Analysis-Power-BI-Dashboard
-
-Certainly! Here’s a ready-to-use **README summary** you can copy and paste into your GitHub repository for your Hospitality Analysis Power BI project:
 
 ***
 
